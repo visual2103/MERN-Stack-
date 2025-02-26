@@ -12,7 +12,6 @@ This project is built using the **MERN (MongoDB, Express.js, React.js, Node.js) 
 - ✅ **CRUD Operations** (Create, Read, Update, Delete functionality)
 - ✅ **REST API with Express.js**
 - ✅ **MongoDB Database with Mongoose**
-- 
 ## 📌 Current Progress
 
 - Backend setup with **Node.js & Express**
